@@ -29,9 +29,6 @@ Este projeto consiste na implementação de um sistema de **autocompletar** dese
 - Compilador C++ compatível com C++17
 - `make` (ou compile manualmente com `g++`)
 
-```bash
-make
-
 ## Colaboradores
 
 - [José Gildenilson](https://github.com/JoseGildenilson)
